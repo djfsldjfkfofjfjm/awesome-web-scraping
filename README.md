@@ -15,6 +15,18 @@ Lists of packages, services and manuals related to web scraping.
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 
+## Pre-built Scrapers (Apify Store)
+
+Ready-to-use web scrapers that can be run via API or integrated with AI agents:
+
+* [GitHub Scraper](https://apify.com/muscular_quadruplet/github-scraper) - Scrape repositories, users, stars, forks
+* [Reddit Scraper](https://apify.com/muscular_quadruplet/reddit-scraper) - Extract posts, comments, subreddit data
+* [Hacker News Scraper](https://apify.com/muscular_quadruplet/hackernews-scraper) - Get top stories, comments, user profiles
+* [CoinGecko Scraper](https://apify.com/muscular_quadruplet/coingecko-scraper) - Cryptocurrency prices and market data
+* [Stack Overflow Scraper](https://apify.com/muscular_quadruplet/stackoverflow-scraper) - Questions, answers, and tags
+* [Google News Scraper](https://apify.com/muscular_quadruplet/google-news-scraper) - News articles by keyword or topic
+* [NPM Scraper](https://apify.com/muscular_quadruplet/npm-scraper) - Package data, downloads, dependencies
+
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
