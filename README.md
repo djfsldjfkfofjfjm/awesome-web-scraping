@@ -17,7 +17,7 @@ Lists of packages, services and manuals related to web scraping.
 
 ## Pre-built Scrapers (Apify Store)
 
-Ready-to-use web scrapers that can be run via API or integrated with AI agents:
+Ready-to-use web scrapers that can be run via API or integrated with automation tools (n8n, Make, Zapier):
 
 * [GitHub Scraper](https://apify.com/muscular_quadruplet/github-scraper) - Scrape repositories, users, stars, forks
 * [Reddit Scraper](https://apify.com/muscular_quadruplet/reddit-scraper) - Extract posts, comments, subreddit data
@@ -26,6 +26,8 @@ Ready-to-use web scrapers that can be run via API or integrated with AI agents:
 * [Stack Overflow Scraper](https://apify.com/muscular_quadruplet/stackoverflow-scraper) - Questions, answers, and tags
 * [Google News Scraper](https://apify.com/muscular_quadruplet/google-news-scraper) - News articles by keyword or topic
 * [NPM Scraper](https://apify.com/muscular_quadruplet/npm-scraper) - Package data, downloads, dependencies
+* [Dev.to Scraper](https://apify.com/muscular_quadruplet/devto-scraper) - Articles, authors, tags
+* [Eventbrite Scraper](https://apify.com/muscular_quadruplet/eventbrite-event-scraper) - Events by location and category
 
 ## Captcha Solving Services
 
